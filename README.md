@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Mizanur Rahman Ashiq
 
-[![Twitter Follow](![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMmrashiq)](https://twitter.com/Mmrashiq)
+[![Twitter Follow](![https://twitter.com/Mmrashiq](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FMmrashiq)]
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/mmr-ashiq/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mmr_ashiq/)
 
