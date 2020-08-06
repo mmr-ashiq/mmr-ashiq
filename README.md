@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/mmr-ashiq/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mmr_ashiq/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/diu.ashiq44/)
+![](https://komarev.com/ghpvc/?username=mmr-ashiq&color=ff69b4&style=flat)
 
 :wave: Hi, My name is Ashiq. I'm 20 years old, Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do problem solving.
 - 🔭 I’m currently working on JAVA and JAVAFX
@@ -34,16 +35,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmr-ashiq&hide=css,html)
 
-
-```js
-{
-  languages: ['C++', 'C', 'Java'],
-  
-  frontend: ['HTML', 'CSS'],
-  
-  databases: ['mysql']
-}
-```
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mmr-ashiq&show_icons=true&hide_border=true)
