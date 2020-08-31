@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=mmr-ashiq&color=ff69b4&style=flat)
 
 :wave: Hi, My name is Ashiq. I'm 20 years old, Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do problem solving.
-- 🔭 I’m currently working on JAVA and JAVAFX
+- 🔭 I’m currently working on JAVA
 
 ## {...} My Stack
 
