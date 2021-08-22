@@ -4,11 +4,11 @@
 -->
 
 # <h1 align="center">Mizanur Rahman Ashiq</h1>
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mizanur35-2844@diu.edu.bd?subject=From%20GitHub&cc=ashiqinfo404@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mizanur.ashiq.se@gmail.com?subject=From%20GitHub&cc=mizanur35-2844@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dmmr_ashiq&suffix=%20Followers)](https://twitter.com/mmr_ashiq)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/mmr-ashiq/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mmr_ashiq/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ashiq2844/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mmr.ashiiq/)
 ![](https://komarev.com/ghpvc/?username=mmr-ashiq&color=ff69b4&style=flat)
 
 :wave: Hi, My name is <strong>Ashiq</strong>. I'm 22 years old, Self-taught, Software engineering undergrad currently living in Dhaka, 🇧🇩. I love to do problem solving.
