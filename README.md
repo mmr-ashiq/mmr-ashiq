@@ -18,15 +18,15 @@
 <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FFFF00?style=flat-square&logo=javascript&logoColor=black" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-	<img alt="Express" src="https://img.shields.io/badge/-Express-0077B5?style=flat-square&logo=express&logoColor=green" />
+    <img alt="Express" src="https://img.shields.io/badge/-Express-0077B5?style=flat-square&logo=express&logoColor=green" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=postgresql&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-13aa52?style=flat-square&logo=mysql&logoColor=black" />
-    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-13aa52?style=flat-square&logo=sequelize&logoColor=red" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316392?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e48e00?style=flat-square&logo=mysql&logoColor=black" />
+    <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-00b1ea?style=flat-square&logo=sequelize&logoColor=red" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-4281b4?style=flat-square&logo=python&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00FFFF?style=flat-square&logo=netlify&logoColor=black" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
