@@ -5,11 +5,11 @@
 	<a href="https://www.linkedin.com/in/mmr-ashiq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 	<a href="https://twitter.com/mmr_ashiq/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 	<a href="https://www.instagram.com/mmr_ashiq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-	<a href="https://www.facebook.com/mmr.ashiiq/"><img src="https://img.shields.io/badge/facebook-5577BF.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+	<a href="https://www.facebook.com/mmr.ashiq/"><img src="https://img.shields.io/badge/facebook-5577BF.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
 </p>
 
 
-:wave: Hi, My name is <strong>Ashiq</strong>. I'm 22 years old, Self-taught, Software engineering undergrad. currently living in Dhaka, 🇧🇩. I love to do problem solving.
+:wave: Hi, My name is <strong>Ashiq</strong>. I'm 23 years old, Self-taught, Software engineering undergrad. currently living in Dhaka, 🇧🇩. I love to do problem solving.
 
 -   🔭 I’m currently working on MERN Stack Development
 
