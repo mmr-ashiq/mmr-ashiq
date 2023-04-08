@@ -9,7 +9,7 @@
 </p>
 
 
-:wave: Hi, My name is <strong>Ashiq</strong>. I'm 23 years old, Self-taught, Software engineering undergrad. currently living in Dhaka, 🇧🇩. I love to do problem solving.
+:wave: Hi, My name is <strong>Ashiq</strong>. I'm 24 years old, Self-taught, Software engineering undergrad. currently living in Dhaka, 🇧🇩. I love to do problem solving.
 
 -   🔭 I’m currently working on MERN Stack Development
 
